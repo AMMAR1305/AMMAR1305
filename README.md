@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>  
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>  
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Web Developer</h3>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+%26+Spring+Boot;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
