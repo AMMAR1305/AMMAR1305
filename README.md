@@ -51,7 +51,7 @@
 ---
 
 ### 🏆 Achievements  
-- 🧠 Solved **80+ LeetCode** problems  
+- 🧠 Solved **150+ LeetCode** problems  
 - 🎯 Built **10+ full stack projects**  
 - 💡 Contributed to **Open Source**  
 
