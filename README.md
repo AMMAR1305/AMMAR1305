@@ -40,7 +40,27 @@
 - ⚖️ **[LitigaTax eCourt Management](#)** — Digital court case & taxation management  
 - 🤖 **[Image Recognition Chatbot](#)** — AI-powered chatbot with image processing  
 
----
+## 🧠 LeetCode Progress  
+
+<p align="center">
+  <a href="https://leetcode.com/u/Mohammad_ammar1305/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Mohammad_ammar1305?theme=dark&font=Fira%20Code&ext=contest" />
+  </a>
+</p>
+
+### 📊 Problem Breakdown 
+<p align="center">
+  <a href="https://leetcode.com/problemset/all/?difficulty=EASY">
+    <img src="https://img.shields.io/badge/Easy-Solved-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/problemset/all/?difficulty=MEDIUM">
+    <img src="https://img.shields.io/badge/Medium-Solved-yellow?style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/problemset/all/?difficulty=HARD">
+    <img src="https://img.shields.io/badge/Hard-Solved-red?style=for-the-badge" />
+  </a>
+</p>
+
 
 ### 📊 GitHub Stats  
 <p align="center">
