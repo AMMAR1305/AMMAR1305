@@ -16,6 +16,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://portfolio-woad-delta-72.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🛠 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,7 +46,9 @@
 - 🛒 **[E-Commerce Website](#)** — MERN stack online store with cart & payment integration  
 - 🔍 **[Fraud Detection System](#)** — Spring Boot + ML model for secure transactions  
 - ⚖️ **[LitigaTax eCourt Management](#)** — Digital court case & taxation management  
-- 🤖 **[Image Recognition Chatbot](#)** — AI-powered chatbot with image processing  
+- 🤖 **[Image Recognition Chatbot](#)** — AI-powered chatbot with image processing
+  
+---
 
 ## 🧠 LeetCode Progress  
 
@@ -47,6 +57,8 @@
     <img src="https://leetcard.jacoblin.cool/Mohammad_ammar1305?theme=dark&font=Fira%20Code&ext=contest" />
   </a>
 </p>
+
+---
 
 ### 📊 Problem Breakdown 
 <p align="center">
@@ -61,6 +73,7 @@
   </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -88,4 +101,5 @@
   <a href="https://leetcode.com/u/Mohammad_ammar1305/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
 </p>
