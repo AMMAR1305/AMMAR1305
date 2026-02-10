@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Web Developer</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+%26+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
