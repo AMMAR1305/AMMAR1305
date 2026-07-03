@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me  
 - 🎓 3rd Year IT Student  
-- 💻 Full Stack Developer — **MERN Stack + Spring Boot**  
+- 💻 Full Stack Developer — **MERN Stack**  
 - 🧠 Solved **150+ LeetCode** problems  
 - 💡 Dream it, build it, deploy it.  
 - 🔥 Passion + Code = Infinite Possibilities.  
